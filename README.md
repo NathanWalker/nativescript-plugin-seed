@@ -1,3 +1,12 @@
+# NOTE: Deprecated July 8, 2017
+
+A new and improved plugin seed has been forked and now resides here:
+
+https://github.com/NativeScript/nativescript-plugin-seed
+
+Please use this new seed going forward as no new development or improvements will be added here.
+
+--------------------
 # Develop a NativeScript plugin
 
 ## Getting started
